@@ -1,4 +1,4 @@
-FROM evoapicloud/evolution-api:v2.3.7
+FROM evoapicloud/evolution-api:2.4.0-rc2
 
 # Adds an early browser patch to the bundled Evolution Manager. The Manager
 # normally filters a contact by key.remoteJid only; inbound WhatsApp messages
